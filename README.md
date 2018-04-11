@@ -1,4 +1,6 @@
-# social-coding
+# Social Coding
+Welcome to Giveth's Social Coding Circle.
+
 Our philosophy: the best way to develop tools for building a [DAC](https://wiki.giveth.io/dac/governance/) is to build a community of altruistic developers. So how does one build a community of altruistic developers ?
 
 Well the way we see it is to give them a space where they can play, where they can try to build whatever they want and over time the tools should sort themselves out. At its most basic level the responsibility of Social Coding is to oversee anything beyond basic DApp development. Think of it as a zesty combination of R&D, coding bootcamp with a hint of community outreach.
