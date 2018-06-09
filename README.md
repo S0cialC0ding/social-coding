@@ -22,3 +22,11 @@ A platform agnostic ERC20 bot where users or DAO entities can tip each other in 
 | ------- | ------- | ------- |
 | Alon | [Github Repo](https://github.com/Alonski/PointsBot) | - Front end developer |
 
+## Xchange Rates
+
+A tool that gives any exchange rate provided by cryptocompare API at any given day. It is aimed at people willing to justify a payment as you can get a link that will load the specific pair and date and value that you selected.
+
+| Project Members | Links | Open Roles |
+| ------- | ------- | ------- |
+| dappLion | [Github Repo](https://github.com/Giveth/xchange-rates) | - Front end developer |
+
