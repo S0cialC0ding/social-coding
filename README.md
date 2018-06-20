@@ -112,3 +112,11 @@ Brainstorming: [here](https://docs.google.com/document/d/1Uo0v78BgHUJNRdcikffL_7
 ### New projects:
 We are always looking for new open source projects to add to this list. If you have an idea and you want to share it with the S0cial_C0ding Circle. Jump into our channel on [Riot](https://riot.im/app/#/room/#giveth-social-coding:matrix.org). 
 
+## Xchange Rates
+
+A tool that gives any exchange rate provided by cryptocompare API at any given day. It is aimed at people willing to justify a payment as you can get a link that will load the specific pair and date and value that you selected. The functionality and appearance needs improvement. Speacially, it should support a way to share rates of the current date in a stable fashion, as right now by taking the daily average, "today's rate" keeps changing throughout the day.
+
+| Project Members | Links | Open Roles |
+| ------- | ------- | ------- |
+| dappLion | [Github Repo](https://github.com/Giveth/xchange-rates) | - Front end developer |
+
