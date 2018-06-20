@@ -1,5 +1,5 @@
 # Social Coding
-Welcome to Giveth's Social Coding Circle.
+Welcome to [Giveth's Social Coding Circle.]()
 
 Our philosophy: the best way to develop tools for building a [DAC](https://wiki.giveth.io/dac/governance/) is to build a community of altruistic developers. So how does one build a community of altruistic developers ?
 
@@ -7,18 +7,108 @@ Well the way we see it is to give them a space where they can play, where they c
 
 The general cycle looks like this:
 
-* Each month the Giveth team has a brainstorming session. (Join our next one) During these sessions everybody discusses what they want to work on.
+* Two times a month the social coding contributors have a brainstorming session, where everyone discusses what they want to work on. [Join our next one](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) 
 
-* Projects that get a lot of interest are greenlit, some projects continue to be developed within social_coding, others don’t.
+* Projects that get a lot of interest are greenlit, some projects continue to be developed within s0cialc0ding, others don’t.
 
-* Our goal (ideally) is for projects with a minimum of two people interested to move forward . Obviously this will not always be the case —  people will pursue what they feel impelled to.
+* Our goal is to support the development of open source projects with a minimum of two interested parties. Obviously this will not always be the case —  people will pursue what they feel impelled to and we're fine with that. 
+
+At the end of the day members of the social coding circle believe that sharing resources, access and information is the best way to grow the community of developers. It's a place to learn, share and contribute whatever you feel passionate about! 
+
+
+#### Find us on [Riot](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
+
+#### Track our campaign on [Alpha.Giveth.io](https://alpha.giveth.io/campaigns/NMhA6QLwfsUmPQld)
+
+#### Submit your own project by attending our next [Social Coding Sync 📆](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com&ctz=Europe%2FMadrid)
+
+
+
+
 
 # Active Projects
 
-## Points Bot
-A platform agnostic ERC20 bot where users or DAO entities can tip each other in tokens. The plan is to begin with Slack, Riot, and Twitter integrations, and then growing beyond. 
+## Planning Tab 📑
+This is app is a crucial building block for any organization that aims to coordinate work and streamline management duties, without traditional managers. This app will work with any ERC-20 token or Aragon DAO.
 
-| Project Members | Links | Open Roles |
-| ------- | ------- | ------- |
-| Alon | [Github Repo](https://github.com/Alonski/PointsBot) | - Front end developer |
+ Contributors | Links | Open Roles | Contact
+| ------- | ------- | ------- |-----
+|[Quazia](https://github.com/Quazia), [StellerMagnet](https://github.com/stellarmagnet), [Rkzel](https://github.com/rkzel)  | [Github Repo](https://github.com/Giveth/planning-app) | -  | @Quazia: [Riot](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) 
+
+## BrightID 🌟🆔
+
+BrightID uses the people you know (a social graph) to enforce one-account-per-person for important applications like voting and universal basic income, proves that you're a unique person
+
+
+ Contributors | Links | Open Roles |Contact
+| ------- | ------- | ------- |------
+| [Adam](https://github.com/adamstallard), [RNBWD](https://github.com/RnbWd), [Greenkode](https://github.com/greenkode) [Abram]() | [Github Repo](https://github.com/BrightID/BrightID) | -  |[Telegram](https://t.me/brightid), [Email](mailto:adam.stallard@gmail.com) 
+  
+>Contributor [Sign Up Sheet](https://goo.gl/forms/gy4YBscxRKWHtddb2) 
+
+
+
+## Points Bot 🤖 ChatBot
+
+A platform agnostic ERC20 bot where users or DAO entities can tip each other in tokens. The plan is to begin with Slack, Riot, and Twitter integrations, and then grow beyond. 
+
+| Contributors | Links | Open Roles | Contact | 
+| ------- | ------- | ------- |--------
+|  [TayTayTrey](), [Deamme](https://github.com/deamme) | [Github Repo](https://github.com/geleeroyale/donation-leaderboard) | - |[Riot Room](http://riot.im/app/#/room/#pointsbot:matrix.org)
+
+
+## Donation Leader Board 🏆
+
+This web-application allows the display of transactions to an address on the Ethereum blockchain as a leaderboard.
+
+| Contributors | Links | Open Roles | Contact |
+| ------- | ------- | ------- |------
+| [GeleeRoyale](https://github.com/geleeroyale) | [Github Repo](https://github.com/geleeroyale/donation-leaderboard) | - Web3 and/or React dev  | @Geleeroyale: [Riot](https://riot.im/app/#/group/+giveth:matrix.org) 
+
+## Eth Kan 📋
+
+Imagine if each card on your project board was a contract that accepted ethereum, that's EthKan! 
+
+| Contributors | Links | Open Roles | Contact |
+| ------- | ------- | ------- | ------- |
+| [Xet7](https://github.com/xet7), [Oz](https://github.com/ojones), [KingFlurkel](https://github.com/kingflurkel) | [Github Repo](https://github.com/EthKan) | - Project manager/lead |[Riot Room](http://riot.im/app/#/room/#social-coding-ethkan:matrix.org )
+
+
+Other resources: 
+- [Demo how Wekan posts events:](https://www.youtube.com/watch?v=hTB9LaqyQgw) 
+- Oz deploying contract and [using demo:](https://www.youtube.com/watch?v=B_xZZ0eIq_Y) 
+- A [POC](https://github.com/EthKan/contract-ui-demo) of how the UI can talk to blockchain contract: 
+ 
+- The POC contract repo with [readme instructions:](https://github.com/EthKan/ethkan-contracts)  
+
+
+## Snap Proof 🤞🏼
+ 
+Description: Social media tool that takes video, collecting action and user images stored on a decentralized solution. Irreversible proof of presence and achievement. More detailed project description HERE
+
+ Contributors | Links | Open Roles | Contact
+| ------- | ------- | ------- | ------
+| [Ojones](https://github.com/ojones) | [Github Repo](https://github.com/snapproof) | Project lead, Front End Dev | @Oz [Slack](http://slack.giveth.io/) 
+
+## Wall of Fame 🎥
+The wall of fame is a collection of videos that are made by Giveth contributors for fun or in order to claim points. The hosting solution is based on google firebase but will become decentralized with the help of e.g. IPFS.
+
+ Contributors | Links | Open Roles | Contact
+| ------- | ------- | ------- | ------
+| [@Geleeroyale](https://github.com/geleeroyale), [Deamme](https://github.com/deamme) | GitHub[<sup>1</sup>](https://github.com/etherno/giveth) [<sup>2</sup>](https://github.com/Giveth/wall-of-fame), [Website](https://fame.giveth.io/) | - | @deam: [Riot](https://riot.im/app/#/group/+giveth:matrix.org)
+
+
+
+
+## EIP0 📈🚨📉 
+The concept of EIP0 is to act as an Ethereum signal aggregator.
+
+   Contributors | Links | Open Roles | Contact
+| ------- | ------- | ------- | ------
+| [Griffgreen](https://github.com/griffgreen)  | [GitHub]( https://github.com/Giveth/ethereum-signal-aggregator) | Front end dev (HTML, CSS, JS), Project manager | @Griffgreen: [Riot](ttps://riot.im/app/#/group/+giveth:matrix.org)
+
+Brainstorming: [here](https://docs.google.com/document/d/1Uo0v78BgHUJNRdcikffL_7f36W0sZkyNQSPW5pj4uks/)
+
+### New projects:
+We are always looking for new open source projects to add to this list. If you have an idea and you want to share it with the S0cial_C0ding Circle. Jump into our channel on [Riot](https://riot.im/app/#/room/#giveth-social-coding:matrix.org). 
 
