@@ -80,10 +80,11 @@ Imagine if each card on your project board was a contract that accepted ethereum
 
 | Contributors | Links | Open Roles | Contact |
 | ------- | ------- | ------- | ------- |
-| [Xet7](https://github.com/xet7), [Oz](https://github.com/ojones), [KingFlurkel](https://github.com/kingflurkel) | [Github Repo](https://github.com/EthKan) | - Project manager/lead |[Riot Room](http://riot.im/app/#/room/#social-coding-ethkan:matrix.org )
+| [Xet7](https://github.com/xet7), [Oz](https://github.com/ojones), [KingFlurkel](https://github.com/kingflurkel), [Kiki Pluche](https://github.com/kikipluche) | [Github Repo](https://github.com/EthKan) | - Project manager/lead |[Riot Room](http://riot.im/app/#/room/#social-coding-ethkan:matrix.org )
 
 
 Other resources: 
+- Medium [article](https://medium.com/giveth/ethkan-project-management-and-funding-bb829d5a0286)  
 - [Demo how Wekan posts events:](https://www.youtube.com/watch?v=hTB9LaqyQgw) 
 - Oz deploying contract and [using demo:](https://www.youtube.com/watch?v=B_xZZ0eIq_Y) 
 - A [POC](https://github.com/EthKan/contract-ui-demo) of how the UI can talk to blockchain contract: 
@@ -113,7 +114,7 @@ The concept of EIP0 is to act as an Ethereum signal aggregator.
 
    Contributors | Links | Open Roles | Contact
 | ------- | ------- | ------- | ------
-| [Griffgreen](https://github.com/griffgreen)  | [GitHub]( https://github.com/Giveth/ethereum-signal-aggregator) | Front end dev (HTML, CSS, JS), Project manager | @Griffgreen: [Riot](ttps://riot.im/app/#/group/+giveth:matrix.org)
+| [Griffgreen](https://github.com/griffgreen)  | [GitHub]( https://github.com/Giveth/ethereum-signal-aggregator) | Front end dev (HTML, CSS, JS), Project manager | @Griffgreen: [Riot](https://riot.im/app/#/group/+giveth:matrix.org)
 
 Brainstorming: [here](https://docs.google.com/document/d/1Uo0v78BgHUJNRdcikffL_7f36W0sZkyNQSPW5pj4uks/)
 
