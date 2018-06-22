@@ -1,19 +1,28 @@
 # Social Coding
-Welcome to [Giveth's Social Coding Circle.]()
+Welcome to [Giveth's Social Coding Circle.](https://steemit.com/blockchain4humanity/@giveth/what-is-the-social-coding-circle)
 
-Our philosophy: the best way to develop tools for building a [DAC](https://wiki.giveth.io/dac/governance/) is to build a community of altruistic developers. So how does one build a community of altruistic developers ?
+Here we’re building an open source playground to cultivate learning, innovation and just generally trying to get people to build cool stuff. If you like building cool stuff and think [github counts as social media](https://github.com/Giveth/) ,this is the place for you.
+
+We reward our community participants with [RewardDAO](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) *points* as well as *bounties* for larger tasks. In order to get points all you have to do is do awesome open source work on something that will help the mission of decentralization and then talk about it on [Riot or Slack!](https://giveth.io/join/)
+
+On a good day we’re making sure everything is as permissionless as possible and people have freedom to play with things that they *want to learn* or *think are cool*.  We never want people to start getting Social Coding points for things they didn't benefit from doing through gained knowledge, experience, or personal fulfillment!
+
+Beyond that we don’t even know the full extent of what Social Coding is, or will become.
+
+### Our philosophy: 
+The best way to develop tools for building a [DAC](https://wiki.giveth.io/dac/governance/) is to build a community of altruistic developers. So how does one build a community of altruistic developers ?
 
 Well the way we see it is to give them a space where they can play, where they can try to build whatever they want and over time the tools should sort themselves out. At its most basic level the responsibility of Social Coding is to oversee anything beyond basic DApp development. Think of it as a zesty combination of R&D, coding bootcamp with a hint of community outreach.
 
-The general cycle looks like this:
+### The general cycle:
 
-* Two times a month the social coding contributors have a brainstorming session, where everyone discusses what they want to work on. [Join our next one](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) 
+* Two times a month the social coding contributors have a brainstorming session, where everyone discusses what they want to work on. [Join our next one](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com&ctz=Europe%2FMadrid) 
 
-* Projects that get a lot of interest are greenlit, some projects continue to be developed within s0cialc0ding, others don’t.
+* Projects that get a lot of interest are greenlit, some projects continue to be developed within the circle, others don’t.
 
 * Our goal is to support the development of open source projects with a minimum of two interested parties. Obviously this will not always be the case —  people will pursue what they feel impelled to and we're fine with that. 
 
-At the end of the day members of the social coding circle believe that sharing resources, access and information is the best way to grow the community of developers. It's a place to learn, share and contribute whatever you feel passionate about! 
+At the end of the day members of the social coding circle believe that sharing resources, access and information is the best way to grow the community of developers. It's a place to learn, collaborate and contribute whatever you feel passionate about! 
 
 
 #### Find us on [Riot](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
